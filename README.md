@@ -22,10 +22,3 @@ AI Study Buddy is an interactive, GenAI-powered educational platform designed to
 * **Environment Management:** [python-dotenv](https://pypi.org/project/python-dotenv/)
 
 ---
-
-## 📥 Installation & Setup
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/AI-Study-Buddy.git](https://github.com/your-username/AI-Study-Buddy.git)
-cd AI-Study-Buddy
